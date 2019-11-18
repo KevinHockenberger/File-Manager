@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCTnet File Manager", "FCTnet File Manager\FCTnet File Manager.csproj", "{90838EA8-0A23-427C-AB09-FEB13A6C08A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90838EA8-0A23-427C-AB09-FEB13A6C08A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90838EA8-0A23-427C-AB09-FEB13A6C08A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90838EA8-0A23-427C-AB09-FEB13A6C08A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90838EA8-0A23-427C-AB09-FEB13A6C08A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0EC109-3387-480E-847F-9EFE63AAF108}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://fct-dev01:8080/tfs/fct_programs_collection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = FCTnet\u0020File\u0020Manager\\FCTnet\u0020File\u0020Manager.csproj
+		SccProjectName1 = FCTnet\u0020File\u0020Manager
+		SccLocalPath1 = FCTnet\u0020File\u0020Manager
+	EndGlobalSection
+EndGlobal
