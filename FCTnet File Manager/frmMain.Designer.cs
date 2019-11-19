@@ -689,7 +689,7 @@
       this.pnlHelp.Controls.Add(this.label16);
       this.pnlHelp.Controls.Add(this.label15);
       this.pnlHelp.Controls.Add(this.label14);
-      this.pnlHelp.Location = new System.Drawing.Point(68, 1);
+      this.pnlHelp.Location = new System.Drawing.Point(69, 1);
       this.pnlHelp.Name = "pnlHelp";
       this.pnlHelp.Size = new System.Drawing.Size(520, 106);
       this.pnlHelp.TabIndex = 18;
